@@ -41,3 +41,7 @@ A Java-based application with a user-friendly GUI to **pack multiple files into 
    cd FilePackerUnpacker
 2. Compile the Project.
 3. run the Main.java file
+
+🔑 Login Credentials
+Username: Admin@123
+Password: SecureAdmin@123
