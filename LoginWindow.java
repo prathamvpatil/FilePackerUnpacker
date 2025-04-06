@@ -77,7 +77,7 @@ class LoginWindow extends JFrame implements ActionListener {
         String user = usernameField.getText();
         String pass = new String(passwordField.getPassword());
 
-        if (user.equals("MarvellousAdmin") && pass.equals("MarvellousAdmin")) {
+        if (user.equals("Admin@123") && pass.equals("SecureAdmin@123")) {
             dispose();
             new MainMenu();
         } else {
