@@ -39,3 +39,5 @@ A Java-based application with a user-friendly GUI to **pack multiple files into 
    ```bash
    git clone https://github.com/your-username/FilePackerUnpacker.git
    cd FilePackerUnpacker
+2. Compile the Project.
+3. run the Main.java file
